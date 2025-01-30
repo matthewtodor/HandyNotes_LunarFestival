@@ -29,6 +29,7 @@ local continents = {
 	[875] = true, -- Zandalar
 	[876] = true, -- Kul Tiras
 	[947] = true, -- Azeroth
+	[1978] = true, -- Dragon Isles
 }
 
 local notes = {

@@ -319,3 +319,27 @@ points[249] = { -- "Uldum"
 points[205] = { -- "VashjirRuins"
 	[57268615] = { 29738, 6006, 8 }, -- Elder Moonlance
 }
+
+
+------------------
+-- Dragon Isles --
+------------------
+points[2022] = { -- "TheWakingShores"
+	[46713131] = { 73848, 17321, 1 }, -- Iskaara Elder Shomkol
+	[44266382] = { 73716, 17321, 2 }, -- Aylaag Elder
+}
+
+points[2023] = { -- "OhnahranPlains"
+	[83944810] = { 73172, 17321, 3 }, -- Shikaar Elder
+	[58473148] = { 73717, 17321, 4 }, -- Ohn'ir Elder
+}
+
+points[2024] = { -- "TheAzureSpan"
+	[12894907] = { 73858, 17321, 5 }, -- Iskaara Elder Nemaglek
+	[67394948] = { 73860, 17321, 6 }, -- Elder Dekidig
+}
+
+points[2025] = { -- "Thaldraszus"
+	[54864343] = { 73859, 17321, 7 }, -- Iskaara Elder Sik'ek
+	[50076655] = { 73861, 17321, 8 }, -- Elder Razlok
+}
